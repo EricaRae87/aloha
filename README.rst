@@ -11,8 +11,7 @@ then add `aloha` to `INSTALLED_APPS` in your `settings.py` file.
 
 {% aloha %}
 ===========
-
-The alpha tag generates a random greeting, renders it, and updates 
+The aloha tag generates a random greeting, renders it, and updates 
 the context with additional variables containing further details
 of the greeting language.
  

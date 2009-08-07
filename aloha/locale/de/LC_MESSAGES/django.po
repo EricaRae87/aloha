@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2008 Andreas Aderhold
+# This file is distributed under the same license as the Jazz package.
+# Andreas Aderhold <andreas@andreasaderhold.com>, 2008.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-28 10:24+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: templatetags/aloha.py:11
+msgid "English"
+msgstr "Englisch"
+
+#: templatetags/aloha.py:12
+msgid "German"
+msgstr "Deutsch"
+
+#: templatetags/aloha.py:13
+msgid "Estonian"
+msgstr "Estonisch"
+
+#: templatetags/aloha.py:14
+msgid "Australian"
+msgstr "Australisch"
+
+#: templatetags/aloha.py:15
+msgid "Lingala"
+msgstr ""
+
+#: templatetags/aloha.py:16
+msgid "Italian"
+msgstr "Italienisch"
+
+#: templatetags/aloha.py:17
+msgid "Tagalog"
+msgstr ""
+
+#: templatetags/aloha.py:18 templatetags/aloha.py:19
+msgid "French"
+msgstr "Französisch"
+
+#: templatetags/aloha.py:20
+msgid "Swedish"
+msgstr "Schwedisch"
+
+#: templatetags/aloha.py:21
+msgid "Mäori"
+msgstr "Maori"
+
+#: templatetags/aloha.py:22 templatetags/aloha.py:23
+msgid "Arabic"
+msgstr "Arabisch"
+
+#: templatetags/aloha.py:24
+msgid "Irish"
+msgstr "Irisch"
+
+#: templatetags/aloha.py:25
+msgid "Mandarin"
+msgstr "Mandarin"
+
+#: templatetags/aloha.py:26
+msgid "Lolspeak"
+msgstr "Lolsprech"
+
+#: templatetags/aloha.py:27
+msgid "Hawaiian"
+msgstr "Hawaii"
+
+#: templatetags/aloha.py:28
+msgid "Zulu"
+msgstr "Zulu"
+
+#: templatetags/aloha.py:29
+msgid "Albanian"
+msgstr "Albanisch"
+
+#: templatetags/aloha.py:30
+msgid "Portuguese"
+msgstr "Portugisisch"
+
+#: templatetags/aloha.py:31
+msgid "Hessian"
+msgstr "Hessisch"
+
+#: templatetags/aloha.py:50
+#, python-format
+msgid "Now you know how to greet people in %(language)s"
+msgstr "So begrüßt man jemanden auf %(language)s"
